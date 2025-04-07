@@ -1,3 +1,7 @@
+# 資料來源
+“https://amis.afa.gov.tw/m_veg/VegProdDayTransInfo.aspx”
+
+
 # 蔬果交易資料處理系統配置說明
 
 ## vgdata202401-202502.conf 詳細解析
