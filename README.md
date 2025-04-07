@@ -1,6 +1,6 @@
 # 資料來源
-“https://amis.afa.gov.tw/m_veg/VegProdDayTransInfo.aspx”
-
+農產品批發市場交易行情站 ： https://amis.afa.gov.tw/m_veg/VegProdDayTransInfo.aspx
+以”月“為單位，選擇全部市場/產品，下載Excel檔案後轉檔為csv檔案
 
 # 蔬果交易資料處理系統配置說明
 
